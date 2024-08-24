@@ -1,0 +1,33 @@
+body {
+    text-align:center;
+}
+img {
+    width: 80%;
+}
+
+footer {
+    background-color: #0c15ff;
+        
+    padding: 10px;
+        
+    text-align: center;
+        
+    color: white;
+        
+    }
+    header {
+
+        background-color: #2302fa;
+                        
+        padding: 30px;
+                        
+        text-align: center;
+                        
+        font-size: 35px;
+                        
+        color: white;
+                        
+        }
+        nav{
+            float: right;
+        }
